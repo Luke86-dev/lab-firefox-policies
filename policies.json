@@ -49,7 +49,8 @@
                 "https://*.rai.it/*",
                 "https://*.draw.io/*",
                 "https://*.diagrams.net/*",
-                "https://*.itivolta.it/*"
+                "https://*.itivolta.it/*",
+                "https://*.onlinegdb.com/*"
             ]
         },
         "DisablePrivateBrowsing": true,
